@@ -7,9 +7,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>gulimall</name>
     <description>谷粒项目大仓</description>
-    <packaging>
-        pom
-    </packaging>
+    <packaging>pom</packaging>
     <modules>
         <module>gulimall-ware</module>
         <module>gulimall-coupon</module>
@@ -18,5 +16,6 @@
         <module>gulimall-product</module>
         <module>renren-fast</module>
         <module>renren-generator</module>
+        <module>gulimall-common</module>
     </modules>
 </project>
